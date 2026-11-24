@@ -1,0 +1,11 @@
+{
+  "name": "robot-wedding-vows-20261124",
+  "version": "1.0.0",
+  "description": "One-Line Robot Wedding Vows — one-line entry for make.fun",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
