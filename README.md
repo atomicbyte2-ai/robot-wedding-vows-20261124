@@ -15,3 +15,9 @@ A tiny Node program that validates one line of robot wedding vows (max 160 chara
 ```
 node main.ts
 ```
+
+## Why it works
+
+- Opens like real wedding vows ("I promise to love you through..."), so the frame is instant and familiar.
+- Rule of three escalates from robot troubles (reboot, update) to the universal human-marriage moment of saying "I'm fine" while clearly not fine.
+- The twist lands on hardware giving the lie away — a cooling fan audibly screaming — and ends on "screaming", the most vivid word, so the punch lands last.
